@@ -268,8 +268,7 @@ a {
 }
 
 .product__content-text {
-  font-size: 16px;
-  line-height: 120%;
+  margin-bottom: 25px;
 }
 
 .product__content-btn {
@@ -281,7 +280,6 @@ a {
   background-color: #fff;
   border: 1px solid #001E64;
   border-radius: 20px;
-  margin-top: 27px;
   padding: 12px 85px;
   cursor: pointer;
 }
